@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 微信公众号相关接口
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  **/
 @RestController

@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 微信开放平台配置
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @Slf4j

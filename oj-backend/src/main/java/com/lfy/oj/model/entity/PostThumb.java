@@ -4,14 +4,15 @@ import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
+import lombok.Data;
+
 import java.io.Serializable;
 import java.util.Date;
-import lombok.Data;
 
 /**
  * 帖子点赞
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @TableName(value = "post_thumb")

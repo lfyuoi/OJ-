@@ -5,7 +5,7 @@ import com.lfy.oj.common.ErrorCode;
 /**
  * 抛异常工具类
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 public class ThrowUtils {

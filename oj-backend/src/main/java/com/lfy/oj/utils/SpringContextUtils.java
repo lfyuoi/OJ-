@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * Spring 上下文获取工具
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @Component

@@ -6,7 +6,7 @@ import com.lfy.oj.model.entity.User;
 /**
  * 用户数据库操作
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 public interface UserMapper extends BaseMapper<User> {

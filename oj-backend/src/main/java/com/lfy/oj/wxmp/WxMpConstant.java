@@ -3,7 +3,7 @@ package com.lfy.oj.wxmp;
 /**
  * 微信公众号相关常量
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  **/
 public class WxMpConstant {

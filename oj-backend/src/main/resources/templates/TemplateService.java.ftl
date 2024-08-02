@@ -12,8 +12,8 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * ${dataName}服务
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
- * @from <a href="https://www.code-nav.cn">编程导航学习圈</a>
+ * @author 程序员灵风
+
  */
 public interface ${upperDataKey}Service extends IService<${upperDataKey}> {
 

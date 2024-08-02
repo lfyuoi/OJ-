@@ -3,7 +3,7 @@ package com.lfy.oj.common;
 /**
  * 自定义错误码
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 public enum ErrorCode {

@@ -26,7 +26,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 文件接口
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @RestController

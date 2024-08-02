@@ -7,7 +7,7 @@ import lombok.Data;
  * 通用返回类
  *
  * @param <T>
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @Data

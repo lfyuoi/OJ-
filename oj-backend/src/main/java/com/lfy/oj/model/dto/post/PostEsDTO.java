@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * 帖子 ES 包装类
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  **/
 // todo 取消注释开启 ES（须先配置 ES）

@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * 用户注册请求体
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @Data

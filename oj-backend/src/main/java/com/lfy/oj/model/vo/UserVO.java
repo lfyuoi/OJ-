@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 用户视图（脱敏）
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @Data

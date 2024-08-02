@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 /**
  * 用户服务测试
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @SpringBootTest

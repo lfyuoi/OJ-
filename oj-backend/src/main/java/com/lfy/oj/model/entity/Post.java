@@ -12,7 +12,7 @@ import lombok.Data;
 /**
  * 帖子
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @TableName(value = "post")

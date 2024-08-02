@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * Cos 对象存储操作
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 @Component

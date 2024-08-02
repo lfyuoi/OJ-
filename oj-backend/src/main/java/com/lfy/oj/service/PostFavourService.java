@@ -11,7 +11,7 @@ import com.lfy.oj.model.entity.User;
 /**
  * 帖子收藏服务
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 public interface PostFavourService extends IService<PostFavour> {

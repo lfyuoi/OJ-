@@ -8,7 +8,7 @@ import org.apache.commons.lang3.ObjectUtils;
 /**
  * 用户角色枚举
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 public enum UserRoleEnum {

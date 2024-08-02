@@ -3,7 +3,7 @@ package com.lfy.oj.constant;
 /**
  * 文件常量
  *
- * @author <a href="https://github.com/lfyuoi">程序员灵风</a>
+ * @author 程序员灵风
  * 
  */
 public interface FileConstant {
