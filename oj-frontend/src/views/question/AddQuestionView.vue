@@ -1,4 +1,3 @@
-背景色搞好看点、缩放一下 铺得太满了 ```Vue
 <template>
   <div id="addQuestionView" class="apple-style">
     <h2 class="apple-style-title">创建题目</h2>
@@ -204,7 +203,7 @@ const loadData = async () => {
   if (!id) {
     return;
   }
-  const res = await QuestionControllerService.getQuestionVoByIdUsingGet(
+  const res = await QuestionControllerService.getQuestionByIdUsingGet(
     id as any
   );
   if (res.code === 0) {
